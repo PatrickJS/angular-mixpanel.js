@@ -1,0 +1,19 @@
+{
+  "name": "angular-mixpanel.js",
+  "version": "1.0.0",
+  "description": "An Angular.js adapter for Mixpanel with a development mode",
+  "main": "angular-mixpanel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdi2290/angular-mixpanel.js.git"
+  },
+  "author": "gdi2290 <github@gdi2290.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdi2290/angular-mixpanel.js/issues"
+  },
+  "homepage": "https://github.com/gdi2290/angular-mixpanel.js"
+}
